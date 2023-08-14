@@ -18,7 +18,7 @@ Atualmente venho desenvolvendo e aprimorando minhas habilidades em HTML, CSS e J
 
 💼 LinkedIn: [linkedin.com/in/leonardo-d-ceretta/](https://www.linkedin.com/in/leonardo-d-ceretta/)
 
-🌐 GitHub: [github.com/LeoCeretta](https://github.com/LeoCeretta/)) 
+🌐 GitHub: [github.com/LeoCeretta](https://github.com/LeoCeretta/) 
 
 
 ## Status
