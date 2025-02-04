@@ -1,9 +1,12 @@
 # Olá, me chamo Leonardo ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou desenvolvedor de software com foco em Front-End, meu objetivo maior é impactar positivamente a vida das pessoas através de uma transformação tecnológica descomplicada e acessível. Para isso, quero usar toda minha paixão e curiosidade em tecnologia para aprimorar minhas habilidades e por em prática tudo o que venho desenvolvendo, sempre buscando crescimento e aprendizado contínuo na profissão.
+Apaixonado por tecnologia, sou desenvolvedor de software com foco em soluções Cloud, utilizando serviços da AWS para criar projetos inovadores e escaláveis. Meu objetivo é impactar positivamente a vida das pessoas por meio de transformações tecnológicas acessíveis e inteligentes, aproveitando minha curiosidade e dedicação para buscar melhorias contínuas.
 
-Atualmente venho desenvolvendo e aprimorando minhas habilidades em HTML, CSS e Javascript através de projetos de páginas web, layout responsivos e interativos. Além de projetos web e apps utilizando Angular e React, VueJs e NextJs.
+Tenho experiência em desenvolvimento front-end, criando interfaces responsivas e interativas com HTML, CSS e JavaScript, além de frameworks como Angular, React, Vue, Next.js e Flutter. Recentemente, expandi meu foco para a aplicação de Inteligência Artificial e Machine Learning, como desenvolvimento de Chatbots e uso de diversos serviços AWS para soluções em nuvem.
+
+Seja em aplicações web, soluções em nuvem ou IA, estou sempre em busca de novos desafios e aprendizados que agreguem valor ao meu trabalho.
+
 
 
 ## Linguagens e Tecnologias
